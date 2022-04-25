@@ -1,0 +1,31 @@
+h1 {
+    font-family: "Comic Sans", Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: lightblue;
+    text-align: center;
+}
+
+.homepage * {
+    text-align: center;
+    list-style-type: none;
+    padding: 0;
+}
+
+.home {
+    text-align: center;
+    font-size: 24px;
+}
+
+.pic {
+    text-align: center;
+}
+
+.external {
+    background-color: yellow;
+}
+
+.disclaimer {
+    background-color: red;
+    color: white;
+    text-align: center;
+}
